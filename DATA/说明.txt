@@ -1,0 +1,1 @@
+用SQL sever 2012建立名为RLZYGLXT的数据库

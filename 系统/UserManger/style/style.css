@@ -1,0 +1,29 @@
+body
+{
+    margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.divlogin1 {
+	height: 768px;
+	width: auto;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #175C7B;
+}
+.divmain1 {
+	text-align: center;
+	height: 260px;
+	width: 440px;
+	margin-top: 254px;
+	background-image: url(../images/denglu.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin-bottom: 254px;
+}
+#divmaintable1 {
+	font-family: "»ªÎÄÐÐ¿¬";
+	font-size: 14px;
+	font-weight: normal;
+}

@@ -1,0 +1,40 @@
+body 
+{
+    margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+    /* 加载背景图 */
+    background: url("/images/background/1.jpg") no-repeat;
+
+    /* 背景图垂直、水平均居中 */
+    background-position: center center;
+
+    /* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
+    background-attachment: fixed;
+
+    /* 让背景图基于容器大小伸缩 */
+    background-size: cover;
+}
+.divlogin1 {
+	height: 768px;
+	width: auto;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #175C7B;
+}
+.divmain1 {
+	text-align: center;
+	height: 260px;
+	width: 440px;
+	margin-top: 254px;
+	background-image: url(../images/denglu.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin-bottom: 254px;
+}
+#divmaintable1 {
+	font-family: "华文行楷";
+	font-size: 14px;
+	font-weight: normal;
+}
